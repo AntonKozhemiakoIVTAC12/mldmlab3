@@ -11,15 +11,15 @@
     <table>
         <tr>
             <td> Введите отношение </td>
-            <td> <textarea id = "arr1" value = "" rows = "3" cols = "25" placeholder="Отношение"></textarea> </td>
+            <td> <textarea id = "arr1" value = "" rows = "3" cols = "25" placeholder="a1 b1 c1"></textarea> </td>
         </tr>
         <tr>
             <td> Введите элементы A множества </td>
-            <td> <textarea id = "arr2" value = "" rows = "3" cols = "25" placeholder="Элемент(ы) №1"></textarea> </td>
+            <td> <textarea id = "arr2" value = "" rows = "3" cols = "25" placeholder="a b c"></textarea> </td>
         </tr>
         <tr>
             <td> Введите элементы B множества </td>
-            <td> <textarea id = "arr3" value = "" rows = "3" cols = "25" placeholder="Элемент(ы) №2"></textarea> </td>
+            <td> <textarea id = "arr3" value = "" rows = "3" cols = "25" placeholder="1 2 3"></textarea> </td>
         </tr>
         <tr>
             <td colspan="2"> <input type="button" value = "Посчитать" onclick = "Answer();"> </td>
